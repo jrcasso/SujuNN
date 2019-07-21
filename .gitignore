@@ -1,0 +1,6 @@
+# Ignore Python Virtual Enviornment
+env/*
+
+# Ignore Data Sets
+./*shapes/*
+
